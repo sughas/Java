@@ -1,2 +1,2 @@
 # Java
-Java Assigment 
+Java Basic questions with solution.
